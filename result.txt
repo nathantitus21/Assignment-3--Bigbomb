@@ -1,0 +1,22 @@
+Student Name: Nathan Titus
+Phase 1 Input: 20
+Phase 1: Defused
+Phase 2 Input: 7
+Phase 2: Defused
+Phase 3 Input: 15
+Phase 3: Defused
+Phase 4 Input: 12
+Phase 4: Defused
+Phase 5 Input: 6
+Phase 5: Defused
+Phase 6 Input: 2
+Phase 6: Defused
+Phase 7 Input: 5
+Phase 7: Defused
+Phase 8 Input: 12
+Phase 8: Defused
+Phase 9 Input: 3
+Phase 9: Defused
+Phase 10 Input: 0
+Phase 10: Defused
+Bomb fully defused
